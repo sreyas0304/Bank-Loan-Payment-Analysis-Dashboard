@@ -3,6 +3,9 @@
 # Overview:
 The Bank Loan Payment Analysis Dashboard is a comprehensive tool designed to monitor and assess the lending activities and performance of our bank. By leveraging critical loan-related metrics and trends, this dashboard facilitates data-driven decision-making, enables tracking of our loan portfolio's health, and empowers the identification of trends to inform lending strategies. Through three interconnected dashboards – Summary, Overview, and Details – users gain a holistic understanding of our bank's lending operations.
 
+# Link to the Dashboard
+Tableau Public Link: https://public.tableau.com/views/BankLoanDataAnalysis_17154944361490/Details?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
 # Dashboard 1: Summary
 The Summary Dashboard serves as an executive overview, highlighting key performance indicators (KPIs) related to loan applications, funded amounts, amounts received, average interest rates, and debt-to-income ratios (DTI). It also distinguishes between 'Good Loans' and 'Bad Loans' based on specific loan status criteria, providing insights into the quality of our loan portfolio. Additionally, it offers a grid view report categorized by loan status, empowering users to assess the health of our loan portfolio comprehensively.
 
